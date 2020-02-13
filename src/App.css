@@ -16,7 +16,7 @@ ul {
 }
 
 #displayContainer {
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 #header-image {
@@ -24,14 +24,19 @@ ul {
 }
 
 li {
-  border: 1px white solid;
-  border-width: 12px;
+  border: 4px white solid;
+  /* border-width: 12px; */
   float: left;
 }
 
+#pokemon-images {
+  height: 200px;
+  width: 200px;
+}
+
 #pokemon-list {
-  height: 750px;
-  width: 475px;
+  height: 475px;
+  width: 300px;
   /* position: relative; */
   /* display: inline-block; */
 }

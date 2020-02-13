@@ -14,4 +14,15 @@ export default class PokeList extends Component {
 }
 
 
+
+// let filteredPokemon = this.props.pokemons.filter(
+//     (pokemon) => {
+//         return pokemon.pokemon.indexOf(this.state.search) !== -1;
+//     }
+// );
+
+// {filteredPokemon.map((pokemon) => {
+//     return <Pokemon pokemon={pokemon}
+// })}
+
 // data={pokemon}
