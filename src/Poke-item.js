@@ -5,7 +5,7 @@
       render() {
           return (
               <div id="pokemonContainer">
-                  <li>
+                  <li id="pokemon-list">
                     <h1>{this.props.data.pokemon}</h1>
                     <img src={this.props.data.url_image} alt=""/>
                     <h3>Type: {this.props.data.type_1}</h3>

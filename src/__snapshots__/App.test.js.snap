@@ -4,6 +4,12 @@ exports[`renders App.js correctly 1`] = `
 <div
   id="requiredContainer"
 >
+  <div>
+    <img
+      alt=""
+      src="../src/assets/pokemon.png"
+    />
+  </div>
   loading content
 </div>
 `;

@@ -8,23 +8,30 @@ body {
 
 ul {
   list-style-type: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* float: left; */
   /* border: 1px white solid; */
 }
 
-/* #displayContainer {
-  display: inline;
-} */
+#displayContainer {
+  display: inline-block;
+}
+
+#header-image {
+  height: 275px;
+}
 
 li {
   border: 1px white solid;
+  border-width: 12px;
+  float: left;
 }
 
-
-/* body li {
-  border: 1px;
-  border-color: white;
+#pokemon-list {
+  height: 750px;
+  width: 475px;
+  /* position: relative; */
+  /* display: inline-block; */
 }
-
-ul {
-  display: hidden;
-} */
