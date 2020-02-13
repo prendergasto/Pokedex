@@ -2,9 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import request from 'superagent'
 import PokeList from './PokeList.js';
-// import images from './data.js';
-// import pokeData from './data.js';
-// import pokemon from './data.js';
 
 
 
@@ -31,5 +28,3 @@ export default class App extends React.Component {
     )
     }
 }
-
-// data={pokeData}
