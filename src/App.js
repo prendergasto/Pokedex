@@ -3,7 +3,7 @@ import './App.css';
 import request from 'superagent'
 import PokeList from './PokeList.js';
 import Header from './Header.js';
-import SearchOptions from './search.js';
+import SearchOptions from './SearchOptions';
 import Paging from './paging.js';
 
 
