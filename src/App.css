@@ -27,6 +27,7 @@ li {
   border: 4px white solid;
   /* border-width: 12px; */
   float: left;
+  background-color: teal;
 }
 
 #pokemon-images {
