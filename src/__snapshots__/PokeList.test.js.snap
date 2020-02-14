@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders PokeItem.js correctly 1`] = `
+<div>
+  <ul
+    id="displayContainer"
+  />
+</div>
+`;
