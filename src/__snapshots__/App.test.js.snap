@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App.js correctly 1`] = `
+<div
+  id="requiredContainer"
+>
+  <div>
+    <img
+      alt=""
+      id="header-image"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png"
+    />
+    <h1>
+      Gotta catch em all...
+    </h1>
+  </div>
+  <form
+    className="options"
+    onSubmit={[Function]}
+  >
+    <label
+      for="search"
+    >
+      Search:
+    </label>
+    <div>
+      <input
+        id="search"
+        name="search"
+        onChange={[Function]}
+        value=""
+      />
+    </div>
+    <p>
+      <button>
+        Search
+      </button>
+    </p>
+  </form>
+  loading content
+  <p
+    className="paging"
+  >
+    No results, try another search
+  </p>
+</div>
+`;
