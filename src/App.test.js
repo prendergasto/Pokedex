@@ -9,6 +9,8 @@ test('renders App.js correctly', () => {
   expect(tree).toMatchSnapshot();
 });
 
+// tests are passing 
+
 
 // test('renders App.js correctly', () => {
 //   const tree = renderer

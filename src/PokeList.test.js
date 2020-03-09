@@ -7,3 +7,5 @@ test('renders PokeItem.js correctly', () => {
   .toJSON();
   expect(tree).toMatchSnapshot();
 });
+
+// test passing
